@@ -51,7 +51,7 @@ A modelagem foi criada no **DB Designer** e segue o modelo **Entidade-Relacionam
 📌 **Acesse o diagrama no DB Designer:** [🔗 Link do Projeto ([DB DESIGNER](https://dbdesigner.page.link/37Jdz4gbSu4E3wPDA))]  
 
 <p align="center">
-  <img alt="Oficina Mecanica" src="./imagem/PNG01.png" width="100%">
+  <img alt="Oficina Mecanica" src="./Imagem/PNG01.png" width="100%">
 </p>   
 
 📌 **Principais Relacionamentos:**  
